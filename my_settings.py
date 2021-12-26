@@ -9,4 +9,4 @@ DATABASES = {
     }
 }
 
-SECRET_KEY = '시크릿키' #settings.py에 있는 secret_key 를 사용합니다.
+SECRET_KEY = '시크릿키' 
